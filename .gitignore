@@ -6,5 +6,6 @@
 **/models/**
 **/tokenizers/**
 **/node.ipynb
+**/node*.ipynb
 **/*checkpoint.ipynb
 **/*.ipynb_checkpoints/**
