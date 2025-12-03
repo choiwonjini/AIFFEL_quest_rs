@@ -9,3 +9,5 @@
 **/node*.ipynb
 **/*checkpoint.ipynb
 **/*.ipynb_checkpoints/**
+
+**/KoChatGPT/**
